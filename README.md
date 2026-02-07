@@ -55,4 +55,3 @@ Use the Slicers on the left to filter the data by Region, Education, or Occupati
 Tools: Microsoft Excel (Advanced Formulas, Pivot Tables, Slicers, Data Visualization)
 Project Category: Retail / Sales Analytics
 
-Connect with me: [Your LinkedIn Link]
