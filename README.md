@@ -12,6 +12,9 @@ https://github.com/KanakSharma0308/excel-bike-sales-dashboard/blob/main/pivot_ta
 https://github.com/KanakSharma0308/excel-bike-sales-dashboard/blob/main/pivot_table2.png
 https://github.com/KanakSharma0308/excel-bike-sales-dashboard/blob/main/pivot_table3.png
 
+🖼️ Output Sheet Review
+https://github.com/KanakSharma0308/excel-bike-sales-dashboard/blob/main/output_sheet.png
+
 🚀 Key Objectives
 Demographic Analysis: Identify which age brackets and genders are most likely to buy bikes.
 Financial Correlation: Evaluate how average income affects purchasing power.
